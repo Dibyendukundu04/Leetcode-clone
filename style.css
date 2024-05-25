@@ -100,7 +100,10 @@ body {
     background-size: cover;
     background-position: 50% 50%;
 }
-
+link[rel="shortcut icon"]{
+    height: 10px;
+    width: auto;
+}
 .leetcode-com-by-html .logo-text {
     position: absolute;
     width: 107px;
